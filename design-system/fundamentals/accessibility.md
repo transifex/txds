@@ -35,5 +35,5 @@ A focus state is the styling of an element being targeted by the keyboard, or ac
 
 
 #### Releases
-  * [🎉 All releases](https://github.com/dontpanicgr/txds/releases)
+  * [🎉 All releases](https://github.com/transifex/txds/releases)
   * [✅ Component Status](/STATUS.md)

@@ -1,28 +1,27 @@
-![alt text](https://raw.githubusercontent.com/dontpanicgr/txds/master/src/assets/images/txds@2x.png "TxDS")
+![alt text](https://raw.githubusercontent.com/transifex/txds/master/src/assets/images/txds@2x.png "TxDS")
 
 
-# Introduction
+# Transifex Design System
 
 TxDS is a modular design system which can be used across various Transifex products and applications. This unified perspective ensures we’re all adhering to the same methodologies and patterns and we create clarity and brand aware products.
 
+   
 
-# Contents
 
-#### 1. About
-  * [Getting started](README.md)
-  
-#### Design Language
+## Contents
+
+#### 🔠 Design Language
   * [Principles](/introduction/principles.md)
   * [Experience](/introduction/experience.md)
   * [Visual](/introduction/visual.md)
   * [Tone & Voice](/introduction/tone+voice.md)
 
-#### Tx Design System
-  * Fundamentals ↘
+#### 🌀 Tx Design System
+  * Fundamentals
     * [Accessibility](/design-system/fundamentals/accessibility.md)
     * [Content](/design-system/fundamentals/content.md)
     * [Localization](/design-system/fundamentals/localization.md)
-  * Style ↘
+  * Style
     * [Branding](/design-system/style/branding.md)
     * [Color](/design-system/style/color.md)
     * [Depth](/design-system/style/depth.md)
@@ -31,7 +30,7 @@ TxDS is a modular design system which can be used across various Transifex produ
     * [Layout](/design-system/style/layout.md)
     * [Motion](/design-system/style/motion.md)
     * [Typography](/design-system/style/typography.md)
-  * Components ↘
+  * Components
     * [Accordion](/design-system/components/accordion.md) 
     * [Avatars](/design-system/components/avatar.md) 
     * [Badge](/design-system/components/badge.md) 
@@ -76,20 +75,21 @@ TxDS is a modular design system which can be used across various Transifex produ
   * [Interaction](/design-system/interaction/interaction.md)
   * [Patterns](/design-system/patterns/patterns.md)
 
-### References
-  * [📚 Articles & Links](/references/references.md)
-  
-### Resources
+## Status
+  * [✅ Component Status](STATUS.md)
+
+## Resources
   * [📐 Sketch Guidelines](/resources/sketch-guidelines.md)
   * [📦 Sketch Kit](/resources/master/TxDS_Design_Kit.0.1.sketch)
   * [⚛️ Sketch Components](/resources/atoms)
   * [🎨 Sketch Color Palette](/resources/master/TxDS_Colors.sketchpalette)
 
-### Releases
-  * [🎉 All releases](https://github.com/dontpanicgr/txds/releases)
-  * [✅ Component Status](STATUS.md)
+## Releases
+  * [🎉 All releases](https://github.com/transifex/txds/releases)
   
-
+## References
+  * [📚 Articles & Links](/references/references.md)
+  
 
 
 

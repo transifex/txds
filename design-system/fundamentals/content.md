@@ -36,5 +36,5 @@ https://styleguide.mailchimp.com/word-list/ ↗
 
 
 #### Releases
-  * [🎉 All releases](https://github.com/dontpanicgr/txds/releases)
+  * [🎉 All releases](https://github.com/transifex/txds/releases)
   * [✅ Component Status](/STATUS.md)

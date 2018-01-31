@@ -1,74 +1,58 @@
-Last login: Mon Jan 29 15:36:08 on ttys000
-cd /Users/george/workspace/transifex.design/Production; clear; pwd
-Georges-MacBook-Pro:~ george$ cd /Users/george/workspace/transifex.design/Production; clear; pwd
-/Users/george/workspace/transifex.design/Production
-Georges-MacBook-Pro:Production george$ git clone git@github.com:transifex/txds.git
-Cloning into 'txds'...
-warning: You appear to have cloned an empty repository.
-Georges-MacBook-Pro:Production george$ git status
-fatal: Not a git repository (or any of the parent directories): .git
-Georges-MacBook-Pro:Production george$ git status
-fatal: Not a git repository (or any of the parent directories): .git
-Georges-MacBook-Pro:Production george$ git init
-Initialized empty Git repository in /Users/george/workspace/transifex.design/Production/.git/
-Georges-MacBook-Pro:Production george$ git status
-On branch master
-
-No commits yet
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	.DS_Store
-	txds/
-
-nothing added to commit but untracked files present (use "git add" to track)
-Georges-MacBook-Pro:Production george$ las -a
--bash: las: command not found
-Georges-MacBook-Pro:Production george$ touch .gitignore
-Georges-MacBook-Pro:Production george$ open .gitignore
-Georges-MacBook-Pro:Production george$ vim .gitignore
-Georges-MacBook-Pro:Production george$ vim .gitignore
-Georges-MacBook-Pro:Production george$ git status
-On branch master
-
-No commits yet
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-
-	.gitignore
-	txds/
-
-nothing added to commit but untracked files present (use "git add" to track)
-Georges-MacBook-Pro:Production george$ ls -a
-.		.DS_Store	.gitignore
-..		.git		txds
-Georges-MacBook-Pro:Production george$ rm -rf .git
-Georges-MacBook-Pro:Production george$ git status
-fatal: Not a git repository (or any of the parent directories): .git
-Georges-MacBook-Pro:Production george$ git init
-Initialized empty Git repository in /Users/george/workspace/transifex.design/ProLast login: Mon Jan 29 15:36:34 on ttys000
-cd /Users/george/workspace/transifex.design/Git/txds; clear; pwd
-Georges-MacBook-Pro:~ george$ cd /Users/george/workspace/transifex.design/Git/txds; clear; pwd
-# Hide package manager
-node_modules
-bower_components
-.npmrc
-
-# Ignore built files and static folder
-demo/*.css
-demo/*.map
-demo/*.js
-!demo/index.js
+*.pyc
+*.pyo
+*.wsp
+*~
+*.pydevproject
+*.project
+*.sqlite
+*.txtm.conf
+.settings
+tags
+TODO
+docs/_build
+docs/html
+build-tools/*.rpm
+transifex/settings/*-local.conf
+.installed.cfg
+.settings
+bin
+build
+develop-eggs
 dist
-
-# OSX
+downloads
+eggs
+*\.egg/
+*egg-info
+parts
+transifex/transifex.egg-info
+transifex/transifex.db.sqlite
+transifex/logs
+site_media/media/reviews_files/*
+transifex/site_media/static
+transifex/site_media/media/mugshots
+*.rej
 .DS_Store
-
-# Debug
-npm-debug.log
-
-# Editors
-project.sublime-project
-".gitignore" 28L, 510C
+htmlcov/*
+.coverage
+coverage
+.*.swp
+.sw[po]
+*.mo
+.dir-locals.el
+geoip/
+nltk_data/
+tests_js/node_modules
+tests_js/test_editor/regex_fixtures.js
+node_modules/
+ghostdriver.log
+.venv
+.vimrc_local
+.vscode
+.noseids
+cscope.out
+.envrc
+.idea
+docker/volumes/*
+txdataenv
+*.part
+package-lock.json

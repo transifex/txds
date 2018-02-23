@@ -1,10 +1,24 @@
 # Visual
+Transifex visual imprint derives from print-based and digital design core principles and concepts. Aspects such as consistency, hierarchy, typography, layout and information architecture that come from visual communication studies are in the of our visual personality. 
 
-Defer to content
-Users care deeply about their content and often want to immerse themselves in it. Give the content center stage in your layout. Design for experiences that are unobtrusive and reduce distraction to lend focus to the work at hand.
+Apart from the above principles to create a unique, modern and innovative visual identity that immerse the user in the experience but also follows the brand core values and our visual direction we had to look into our fundations, our history and our people.
 
-Clarify complexity
-When aiming for “clear and straightforward interactions”, cultural complexities of the users must be considered to ensure that people from different cultures will be able to understand the actions presented. Clarity enhances understanding by helping distinguish between elements. Often we strive for simplicity, but many of our solutions are complex. Design for clear and straightforward interactions to instill a feeling of confidence and ease. Our users should always know what to do and how to do it.
+Our visual identity is analogous to a chameleon with some core characteristics of this extrordinary wonderful creature being so deeply embedded in our daily routine, vision and our design system and philosophy. These caracteristics not only portray Transifex personality but there are also fundamentals that provide answers to questions, debate and discrepancies.
 
-Make the useful beautiful
-Utility satisfies needs, but beauty drives desire. Don’t simply make something that works. Design for experiences that people love to have repeatedly. Create aesthetically pleasing offerings that carry a consistent meaning in their form and function.
+Here are the key characteristics of our visual personality.
+
+#### Authentic
+We think and design in a creative way. Our design process and thinking is unique and our visual personality look and feel modern and fresh.
+
+#### Adaptive
+Our design is fun, relaxed but also professional and formal depending on the context, condition, environment or use case. 
+
+#### Resourceful
+We are capable in finding new, innovative and creative solutions that cover our users needs and solve their problems fast and efficiently. 
+
+#### Balanced
+We design harmonious and aesthetically pleasing experiences that people love to have repeatedly, are unobtrusive and reduce distraction.
+
+#### Visionary
+We strive for faster, simpler, better solutions as we look ahead in the future and we don’t stop searching for new answers and paradigms.
+

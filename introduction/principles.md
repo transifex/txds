@@ -1,5 +1,7 @@
 # Principles
 
+> To edit
+
 Transifex Design System has ten universal design axioms, which offer opportunities to solve users needs and leverage the experience of the product. These axioms should be used during all phases of design, from design thinking and ideating to sketching, prototyping, and evaluating.
 
 Our design approach as we defined it after looking our core values, our people and our products is:

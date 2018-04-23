@@ -1,13 +1,39 @@
 # Principles
 
-As Transifex continues to grow it is important we define and document our design language that will unite all our design philosophies and methodologies across our platform and products. 
+Transifex Design System has ten universal design axioms, which offer opportunities to solve users needs and leverage the experience of the product. These axioms should be used during all phases of design, from design thinking and ideating to sketching, prototyping, and evaluating.
 
-Having a cohesive language creates harmony within a platform. For onlookers, standardised colours, interactions and patterns creates a sense of familiarity and security. A well planned and well executed design language is the key to a gratifying experience. 
+Our design approach as we defined it after looking our core values, our people and our products is:
 
-Simplicity and modularity are the core elements of our design language.
+#### ▣ Simple
+Provide no more than is needed. Prefer to be simple and explicit than complex and implicit, even if it feels obvious.
 
-Simplicity is easily to quote but often ignored in strange ways. A language which uses fewer basic elements to achieve the same power is simpler.
+#### △ Authentic
+Design genuine experiences. Follow and learn from current conventions and trends but also differentiate and think ahead.
 
-Modularity is the realization that any system, no matter how big and wonderful it seems, should always be designed to be a part of another larger system. 
+#### ◈ Inventive
+Follow a fuzzy logic when needed and try to invent something new and awesome today. Be resourceful and playful.
 
-Our core axioms are at the heart of how we approach product design and development and derive from Transifex core value “Advocate for simplicity”.
+#### ⚭ Durable
+Design for the future. Prefer solutions with a much higher lifespan that will be functional and compatible in the near future.
+
+#### ▦ Modular
+Design components that can operate and scale independently as atoms, combine to create new molecules but also inter-communicate effectively inside an organism.
+
+#### ▥ Consistent
+Design reusable solutions to solve similar problems and don’t repeat yourself. Use a coherent user interface library.
+
+
+#### ◳ Efficient
+Make it easy for users to find and do what they came to do. Promote one scope per page.
+
+
+#### ✱ Clear
+Design clear and elegant interfaces. Use color, visualizations and graphic elements to denote value, actions or important context. Be functional, not fictional.
+
+
+#### ◌ Inclusive
+Aim to make the product or services accessible to as many users as possible in as many diverse environments as possible. 
+
+
+#### ⌘ Multicultural 
+Design for a global audience. Consider content and design that goes beyond language localization and incorporate linguistic, physical, business and cultural aspects.

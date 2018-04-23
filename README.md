@@ -7,10 +7,10 @@ TxDS is a modular design system which can be used across various Transifex produ
 ## Contents
 
 #### 🔠 Design Language
-  * [Principles](/introduction/principles.md)
-  * [Experience](/introduction/experience.md)
-  * [Visual](/introduction/visual.md)
-  * [Tone & Voice](/introduction/tone+voice.md)
+  * [Principles](/design-language/principles.md)
+  * [Experience](/design-language/experience.md)
+  * [Visual](/design-language/visual.md)
+  * [Tone & Voice](/design-language/tone+voice.md)
 
 #### 🌀 Tx Design System
   * Fundamentals

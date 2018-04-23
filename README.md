@@ -1,12 +1,8 @@
 ![alt text](https://raw.githubusercontent.com/transifex/txds/master/src/assets/images/txds@2x.png "TxDS")
 
-
 # Transifex Design System
 
 TxDS is a modular design system which can be used across various Transifex products and applications. This unified perspective ensures we’re all adhering to the same methodologies and patterns and we create clarity and brand aware products.
-
-   
-
 
 ## Contents
 
@@ -75,20 +71,7 @@ TxDS is a modular design system which can be used across various Transifex produ
   * [Interaction](/design-system/interaction/interaction.md)
   * [Patterns](/design-system/patterns/patterns.md)
 
-## Status
-  * [✅ Component Status](STATUS.md)
 
-## Resources
-  * [📐 Sketch Guidelines](/resources/sketch-guidelines.md)
-  * [📦 Sketch Kit](/resources/master/TxDS_Design_Kit.0.1.sketch)
-  * [⚛️ Sketch Components](/resources/atoms)
-  * [🎨 Sketch Color Palette](/resources/master/TxDS_Colors.sketchpalette)
-
-## Releases
-  * [🎉 All releases](https://github.com/transifex/txds/releases)
-  
-## References
-  * [📚 Articles & Links](/references/references.md)
   
 
 

@@ -10,11 +10,11 @@ https://www.invisionapp.com/blog/shared-design-systems/
 https://www.invisionapp.com/blog/user-onboarding-essentials/
 https://www.invisionapp.com/blog/zapier-remote-design-team/
 
-** https://medium.com/eightshapes-llc/defining-design-systems-6dd4b03e0ff6
-** https://medium.com/eightshapes-llc/picking-parts-products-people-a06721e81742
-** https://medium.com/eightshapes-llc/system-features-step-by-step-e69c90982630
-** https://medium.com/eightshapes-llc/starting-a-design-system-6b909a578325
-** https://medium.com/in-the-hudl/building-our-sketch-library-cd8c925e566
+https://medium.com/eightshapes-llc/defining-design-systems-6dd4b03e0ff6
+https://medium.com/eightshapes-llc/picking-parts-products-people-a06721e81742
+https://medium.com/eightshapes-llc/system-features-step-by-step-e69c90982630
+https://medium.com/eightshapes-llc/starting-a-design-system-6b909a578325
+https://medium.com/in-the-hudl/building-our-sketch-library-cd8c925e566
 
 https://www.fastcodesign.com/90124947/exclusive-behind-fluent-design-microsofts-vision-for-the-future-of-interfaces
 

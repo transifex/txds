@@ -1,22 +1,24 @@
 # Experience
 
-As UX team we think, plan and design according to the following axioms:
-✓ You are thoughtful with everything you do and strive to provide the best and most
-elegant solutions, even if it means sacrificing things that are urgent.
-✓ You choose simple over complex. You prefer to be explicit than implicit, even if it
-feels obvious.
-✓ You communicate and build our products in clear, simple ways instead of being
-clever.
-✓ Among competing hypotheses, you choose the one with the fewest assumptions
-( Occam’s razor ↗ ).
-✓ You prefer to do something well today rather than something perfect next week.
+As UX team we choose simple over complex and prefer to be explicit than implicit, even if it
+feels obvious. We try to communicate and build our products in clear, simple ways instead of being clever. Following are some specs and rules about certain components and interactions.
 
-We focus on users’ goals that lead people to actionable insights. We are proactive, always anticipating users’ next moves and helping them prepare for change.
-Our products and services are framed by six universal experiences. Each experience offers opportunities to solve unmet needs and emotionally bond users to products. 
 
-The core principles of user experience in Transifex products are:
-Focus ✏️
-Clarity ✏️
-Consistency ✏️
-Efficiency ✏️
-Simplicity ✏️
+
+
+## Dropdown menus
+Dropdown menus display options for list items, and they immediately commit choices upon selection. Dropdown options can be single and multi-level with the difference that for the latter a visual cue is needed such as an right arrow. For selected options a checked mark should be added.
+
+#### Click mechanics:
+- Choosing an option immediately commits the option and closes the menu
+- Clicking outside of the dialog, or pressing ESC, cancels the action and closes the dialog
+
+#### Content
+Dropdown menu content typically consists of text and/or UI control elements. It is focused on a specific task, such as choosing a setting or option.
+
+#### Actions
+Dropdowns should not include more than two actions. A third action, such as “Learn more,” navigates away from the dialog, potentially leaving the task unfinished.
+
+Avoid using a “Learn more” action to access help documentation; in-line expansion within the dialog should be used instead. If more extensive information is needed, provide it prior to entering the dropdown.
+
+

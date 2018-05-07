@@ -32,7 +32,7 @@ To assist user and provide context and clarity about a field’s input you can u
 As with all form content, help text should be succinct and easy to read. 
 
 For brief explanations (shorter than a sentence), place the text underneath the field.
-If the explanation is lengthy, use a {{component}}. 
+If the explanation is lengthy, use in-line expansion. 
 
 Help text should not be correlated with placeholder, label or tip patterns/compoenents and should be used differently and per use case.
 

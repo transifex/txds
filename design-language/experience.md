@@ -22,3 +22,27 @@ Dropdowns should not include more than two actions. A third action, such as “L
 Avoid using a “Learn more” action to access help documentation; in-line expansion within the dialog should be used instead. If more extensive information is needed, provide it prior to entering the dropdown.
 
 
+---
+
+
+## Help text
+To assist user and provide context and clarity about a field’s input you can use help text. 
+
+#### Usage
+As with all form content, help text should be succinct and easy to read. 
+
+For brief explanations (shorter than a sentence), place the text underneath the field.
+If the explanation is lengthy, use a {{component}}. 
+
+Help text should not be correlated with placeholder, label or tip patterns/compoenents and should be used differently and per use case.
+
+You can also use placeholder text to provide an example of the type of input required. For example, in a Name field, show a name in the correct format.
+
+
+#### Do / Don’t
+- Help text should be placed below the text field
+- Don't use Learn more & navigate away from the dialog
+- Left justified 
+- On a single line if possible, or with text wrapping (if multiple lines)
+- Use in-line expansion within the dialog for lengthy help text
+

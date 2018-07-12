@@ -1,6 +1,6 @@
-![alt text](https://raw.githubusercontent.com/transifex/txds/master/images/txds.svg "TxDS")
+![alt text](https://raw.githubusercontent.com/transifex/txds/master/images/txds.png "TxDS")
 
-# Transifex Design System [TxDS]
+# 🌀 Transifex Design System [TxDS]
 
 ## Introduction
 As Transifex continues to grow it became important to create a design system that will reflect not only our style-guide and structure but also our design vision, philosophy and language. 
@@ -9,7 +9,7 @@ The TxDS (Transifex Design System) is an evolving set of guidelines, principles,
 
 ******
 
-## Principles
+## 📘 Principles
 The vision of TxDS is designated by 10 universal design axioms, that offer inspiration and direction to solve people needs and improve the user experience of the product. 
 
 These principles can be used during all phases of design, from design thinking and ideation to sketching, prototyping, and testing.
@@ -46,7 +46,7 @@ Design for a global audience. Consider content and design that goes beyond langu
 
 ******
 
-## Foundation
+## 🏛 Foundation
 
 ### Visual 
 TxDS favors concepts such as simplicity, consistency, hierarchy and concise structure with the goal to represent a unique and innovative interface and also immerse the user in the experience. Following are some key visual characteristics.
@@ -161,10 +161,10 @@ Development frameworks provide features that can help you to program dynamic UI 
 
 ******
 
-## Guidelines
+## 📕 Guidelines
 Below you can find guidelines and practices about Transifex core elements and components. 
 
-##### ELEMENTS 
+#### 🔩 ELEMENTS 
 https://www.transifex.com/styleguide/design-elements/
 
 ### Color
@@ -195,7 +195,7 @@ _Add more..._
 
 ******
 
-##### COMPONENTS
+#### ⚙️ COMPONENTS
 https://www.transifex.com/styleguide/ui-components/
 
 ### Dropdown menus
@@ -250,7 +250,7 @@ You can also use placeholder text to provide an example of the type of input req
 
 ******
 
-## Changelog
+## 🗃 Changelog
 
 
 ### Version 0.2

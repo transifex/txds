@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/transifex/txds/master/images/txds.svg "TxDS")
+![alt text](https://raw.githubusercontent.com/transifex/txds/master/images/txds.png "TxDS")
 
 # TxDS Library
 

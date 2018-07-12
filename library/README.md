@@ -1,6 +1,4 @@
-![alt text](https://raw.githubusercontent.com/transifex/txds/master/images/txds.png "TxDS")
-
-# TxDS Library
+# 💎 TxDS Library
 
 The TxDS Library contains all of building blocks of Transifex application. Get the library and other supporting files from the links below.
 
@@ -11,6 +9,8 @@ _Updated Jan 2018_
 
 🎨 [Download the Sketch Color Palette](/library/TxDS_Colors.sketchpalette)
 
+------
+_Last updated on July 12, 2018_
 
 
 

@@ -1,5 +1,3 @@
-![alt text](https://raw.githubusercontent.com/transifex/txds/master/images/txds.png "TxDS")
-
 # 🌀 Transifex Design System [TxDS]
 
 ## Introduction
@@ -271,7 +269,6 @@ Cleanup, update txds repo
 - Added first issues/PR’s
 
 ------
-
 _Last updated on July 12, 2018_
 
   

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242" height="189" viewBox="0 0 242 189">
+  <g fill="none" fill-rule="evenodd" transform="translate(-79 -58)">
+    <rect width="400" height="300" fill="#FFF"/>
+    <g transform="translate(79 59)">
+      <text fill="#0043E4" font-family="SFProDisplay-Bold, SF Pro Display" font-size="36" font-weight="bold">
+        <tspan x="78.854" y="150">TxDS</tspan>
+      </text>
+      <text fill="#333" font-family="SFProDisplay-Light, SF Pro Display" font-size="24" font-weight="300">
+        <tspan x=".094" y="183">Transifex Design System</tspan>
+      </text>
+      <text fill="#828181" font-family="AppleColorEmoji, Apple Color Emoji" font-size="89" transform="rotate(-81 122 52)">
+        <tspan x="77.5" y="92">🌀</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
